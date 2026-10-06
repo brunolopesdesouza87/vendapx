@@ -38,7 +38,7 @@ export const articles2: BlogPost[] = [
         <li>Custos de embalagem e logística reversa</li>
         <li>Devoluções e quebras de estoque</li>
       </ul>
-      <p>Esses esquecimentos fazem com que o empresário acredite que está tendo lucro quando na verdade está operando no prejuízo. Um <strong>sistema financeiro integrado</strong> como o do <a href="https://financeiro.vendapx.ia.br">VendaPX Financeiro</a> facilita o rastreamento automático desses custos, eliminando cálculos manuais propensos a erros.</p>
+      <p>Esses esquecimentos fazem com que o empresário acredite que está tendo lucro quando na verdade está operando no prejuízo. Um <strong>sistema financeiro integrado</strong> como o do <a href="https://financeiro.vendapx.com.br">VendaPX Financeiro</a> facilita o rastreamento automático desses custos, eliminando cálculos manuais propensos a erros.</p>
 
       <h2>Quais são as Margens Ideais por Segmento?</h2>
       <p>Não existe uma margem universal ideal — ela varia conforme o setor. No entanto, como referência:</p>
@@ -52,7 +52,7 @@ export const articles2: BlogPost[] = [
       <h2>Estratégias Práticas para Aumentar a Margem de Lucro</h2>
 
       <h3>1. Revise seus Preços de Venda</h3>
-      <p>Muitos empresários praticam precificação por "feeling" ou apenas cobrindo o custo sem considerar a margem desejada. Utilize o <strong>método de markup</strong>: multiplique o custo do produto por um fator que cubra todos os custos e gere o lucro desejado. Com dados centralizados no <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a>, você visualiza instantaneamente a margem real de cada item.</p>
+      <p>Muitos empresários praticam precificação por "feeling" ou apenas cobrindo o custo sem considerar a margem desejada. Utilize o <strong>método de markup</strong>: multiplique o custo do produto por um fator que cubra todos os custos e gere o lucro desejado. Com dados centralizados no <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a>, você visualiza instantaneamente a margem real de cada item.</p>
 
       <h3>2. Reduza Custos Operacionais</h3>
       <p>Analisar despesas recorrentes pode revelar gargalos inesperados. Negocie com fornecedores, busque alternativas mais econômicas para frete e revise contratos de serviços. Uma redução de 5% nos custos operacionais pode representar um aumento significativo na margem líquida.</p>
@@ -61,10 +61,10 @@ export const articles2: BlogPost[] = [
       <p>Nem todos os produtos geram o mesmo retorno. Identifique quais itens do seu catálogo oferecem as maiores margens e direcione seus esforços de venda para eles. Use relatórios de vendas integrados para descobrir quais produtos mais contribuem para o lucro.</p>
 
       <h3>4. Controle o Estoque com Precisão</h3>
-      <p>Produtos parados no estoque representam capital imobilizado. Um controle de estoque eficiente, como o oferecido pelo <a href="https://estoque.vendapx.ia.br">VendaPX Controle de Estoque</a>, evita excesso de inventário e reduz perdas por validade ou obsolescência.</p>
+      <p>Produtos parados no estoque representam capital imobilizado. Um controle de estoque eficiente, como o oferecido pelo <a href="https://estoque.vendapx.com.br">VendaPX Controle de Estoque</a>, evita excesso de inventário e reduz perdas por validade ou obsolescência.</p>
 
       <h3>5. Implemente uma Política de Descontos Inteligente</h3>
-      <p>Descontos indiscriminados destroem a margem. Defina regras claras: desconto máximo permitido por produto, períodos de promoção delimitados e condições específicas. No <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, é possível configurar limites de desconto por vendedor e por produto.</p>
+      <p>Descontos indiscriminados destroem a margem. Defina regras claras: desconto máximo permitido por produto, períodos de promoção delimitados e condições específicas. No <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, é possível configurar limites de desconto por vendedor e por produto.</p>
 
       <h2>Monitore sua Margem Continuamente</h2>
       <p>Calcular a margem de lucro uma vez não basta. O mercado muda, custos flutuam e novos concorrentes surgem. O ideal é monitorar indicadores financeiros semanalmente ou, no mínimo, mensalmente. Dashboards automatizados que consolidam dados de vendas, custos e despesas em tempo real são ferramentas essenciais para isso.</p>
@@ -107,10 +107,10 @@ export const articles2: BlogPost[] = [
       <h2>Passo a Passo para um Fechamento Mensal Eficiente</h2>
 
       <h3>Passo 1: Conciliação Bancária</h3>
-      <p>Verifique todas as movimentações da conta bancária da empresa e compare com os registros internos. Identifique discrepancias, pagamentos não registrados ou recebimentos pendentes. Uma <strong>conciliação bancária automatizada</strong>, como a oferecida pelo <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a>, reduz drasticamente o tempo dessa etapa.</p>
+      <p>Verifique todas as movimentações da conta bancária da empresa e compare com os registros internos. Identifique discrepancias, pagamentos não registrados ou recebimentos pendentes. Uma <strong>conciliação bancária automatizada</strong>, como a oferecida pelo <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a>, reduz drasticamente o tempo dessa etapa.</p>
 
       <h3>Passo 2: Análise da Receita</h3>
-      <p>Compile todas as fontes de receita: vendas no <a href="https://pdv.vendapx.ia.br">PDV</a>, vendas online, prestações de serviço, receitas financeiras. Compare com o mês anterior e com o mesmo período do ano anterior para identificar tendências.</p>
+      <p>Compile todas as fontes de receita: vendas no <a href="https://pdv.vendapx.com.br">PDV</a>, vendas online, prestações de serviço, receitas financeiras. Compare com o mês anterior e com o mesmo período do ano anterior para identificar tendências.</p>
 
       <h3>Passo 3: Listagem de Despesas Fixas</h3>
       <p>Todas as despesas que se repetem mensalmente devem ser registradas e categorizadas: aluguel, salários, encargos sociais, contas de consumo (água, luz, internet), assinaturas de software e outros.</p>
@@ -140,7 +140,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>O Papel do Ecossistema VendaPX no Fechamento Mensal</h2>
-      <p>Quando você utiliza o ecossistema <strong>VendaPX</strong>, o fechamento mensal se torna significativamente mais simples. Os dados do <a href="https://pdv.vendapx.ia.br">PDV</a> são automaticamente contabilizados no <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a>, as entradas de estoque e saídas são registradas no <a href="https://estoque.vendapx.ia.br">Controle de Estoque</a>, e tudo converge para um painel centralizado. O resultado é um fechamento que leva minutos, não dias.</p>
+      <p>Quando você utiliza o ecossistema <strong>VendaPX</strong>, o fechamento mensal se torna significativamente mais simples. Os dados do <a href="https://pdv.vendapx.com.br">PDV</a> são automaticamente contabilizados no <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a>, as entradas de estoque e saídas são registradas no <a href="https://estoque.vendapx.com.br">Controle de Estoque</a>, e tudo converge para um painel centralizado. O resultado é um fechamento que leva minutos, não dias.</p>
 
       <h2>Erros Comuns no Fechamento Mensal</h2>
       <ul>
@@ -207,7 +207,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Dicas Práticas para o Empreendedor</h2>
-      <p>A melhor estratégia é <strong>antecipação</strong>. Crie um calendário fiscal com todos os vencimentos de impostos e obrigações acessórias. Mantenha um fundo reserve para impostos e nunca utilize esse dinheiro para outras finalidades. Um sistema financeiro como o <a href="https://financeiro.vendapx.ia.br">VendaPX Financeiro</a> permite configurar alertas de vencimento e acompanhar a situação fiscal em tempo real.</p>
+      <p>A melhor estratégia é <strong>antecipação</strong>. Crie um calendário fiscal com todos os vencimentos de impostos e obrigações acessórias. Mantenha um fundo reserve para impostos e nunca utilize esse dinheiro para outras finalidades. Um sistema financeiro como o <a href="https://financeiro.vendapx.com.br">VendaPX Financeiro</a> permite configurar alertas de vencimento e acompanhar a situação fiscal em tempo real.</p>
 
       <h2>Conclusão</h2>
       <p>Embora a tributária brasileira seja complexa, entender o básico já coloca o empresário muitos passos à frente. Mantenha seus registros em ordem, conte com um contador de confiança e utilize ferramentas de gestão que automatizem o controle financeiro. O <strong>ecossistema VendaPX</strong>, por apenas <strong>R$20/mês</strong>, ajuda você a manter suas finanças organizadas para que os impostos nunca sejam uma surpresa desagradável.</p>
@@ -262,7 +262,7 @@ export const articles2: BlogPost[] = [
       <p>A contabilidade garante conformidade legal. A gestão financeira garante sobrevivência e crescimento. Uma empresa pode estar <strong>100% em dia com a receita federal</strong> e ainda assim estar quebrando por falta de controle financeiro do dia a dia. Da mesma forma, ter controle financeiro perfeito mas neglectuar obrigações contábeis pode gerar multas pesadas.</p>
 
       <h2>Como o Ecossistema VendaPX Facilita Essa Separação?</h2>
-      <p>O <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> foi projetado para fornecer ao empresário <strong>informações gerenciais</strong> que vão além da escrituração contábil. Com ele, você acompanha fluxo de caixa, margens de lucro, despesas por categoria e indicadores de performance — tudo de forma visual e intuitiva.</p>
+      <p>O <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> foi projetado para fornecer ao empresário <strong>informações gerenciais</strong> que vão além da escrituração contábil. Com ele, você acompanha fluxo de caixa, margens de lucro, despesas por categoria e indicadores de performance — tudo de forma visual e intuitiva.</p>
       <p>Ao mesmo tempo, os dados gerados pelo sistema são facilmente exportáveis para que seu contador realize a escrituração contábil com precisão, garantindo conformidade fiscal sem retrabalho.</p>
 
       <h2>Quando Contratar Cada Profissional?</h2>
@@ -329,14 +329,14 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como Organizar os Prazos no Dia a Dia</h2>
-      <p>Ter bons prazos não adianta se você não gerencia corretamente as datas de vencimento. Utilize um sistema financeiro que permita visualizar todas as contas a pagar organizadas por data de vencimento, com alertas automáticos. O <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> oferece exatamente isso.</p>
+      <p>Ter bons prazos não adianta se você não gerencia corretamente as datas de vencimento. Utilize um sistema financeiro que permita visualizar todas as contas a pagar organizadas por data de vencimento, com alertas automáticos. O <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> oferece exatamente isso.</p>
 
       <h2>Cenários Reais de Negociação</h2>
       <p><strong>Cenário 1 — Padaria:</strong> Uma padaria que compra R$ 8.000 em ingredientes por mês pode negociar com o distribuidor um prazo de 45 dias ao invés de 15, comprometendo-se a manter o volume mensal. Isso libera R$ 8.000 de capital de giro.</p>
       <p><strong>Cenário 2 — Loja de Roupas:</strong> Uma loja que faz compras semestrais pode negociar 3% de desconto por pagamento antecipado. Em uma compra de R$ 50.000, isso representa R$ 1.500 de economia direta.</p>
 
       <h2>Conclusão</h2>
-      <p>Negociar com fornecedores é uma habilidade essencial que impacta diretamente a saúde financeira do seu negócio. Esteja preparado, conheça seus números e nunca pare de buscar melhores condições. Com o <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> e o <a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a> integrados, você terá dados concretos para sustentar suas negociações. Tudo isso por apenas <strong>R$20/mês</strong>.</p>
+      <p>Negociar com fornecedores é uma habilidade essencial que impacta diretamente a saúde financeira do seu negócio. Esteja preparado, conheça seus números e nunca pare de buscar melhores condições. Com o <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> e o <a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a> integrados, você terá dados concretos para sustentar suas negociações. Tudo isso por apenas <strong>R$20/mês</strong>.</p>
     `
   },
   {
@@ -376,7 +376,7 @@ export const articles2: BlogPost[] = [
       <p>Seu PDV deve ser capaz de emitir notas fiscais eletrônicas diretamente, sem necessidade de sistemas auxiliares. Verifique se ele é homologado pela SEFAZ do seu estado.</p>
 
       <h3>3. Integração com Outros Sistemas</h3>
-      <p>O PDV não pode ser uma ilha. Ele precisa se comunicar com o <strong>controle de estoque</strong> e o <strong>sistema financeiro</strong>. O ecossistema <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> se integra nativamente com o <a href="https://estoque.vendapx.ia.br">Controle de Estoque</a> e o <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a>.</p>
+      <p>O PDV não pode ser uma ilha. Ele precisa se comunicar com o <strong>controle de estoque</strong> e o <strong>sistema financeiro</strong>. O ecossistema <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> se integra nativamente com o <a href="https://estoque.vendapx.com.br">Controle de Estoque</a> e o <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a>.</p>
 
       <h3>4. Usabilidade e Treinamento</h3>
       <p>Um PDV complicado gera erros e lentidão no atendimento. A interface deve ser intuitiva, com botões grandes, layout personalizável e fluxo de venda simples.</p>
@@ -385,7 +385,7 @@ export const articles2: BlogPost[] = [
       <p>Quando o PDV para no meio de uma sexta-feira lotada, você precisa de suporte rápido e eficiente. Verifique os canais de atendimento e o tempo médio de resposta.</p>
 
       <h3>6. Custo vs. Benefício</h3>
-      <p>PDVs caros nem sempre são os melhores. Muitas vezes, soluções com assinatura mensal acessível oferecem todas as funcionalidades necessárias. O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> custa apenas <strong>R$20/mês</strong> e inclui estoque, financeiro e PDV integrados.</p>
+      <p>PDVs caros nem sempre são os melhores. Muitas vezes, soluções com assinatura mensal acessível oferecem todas as funcionalidades necessárias. O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> custa apenas <strong>R$20/mês</strong> e inclui estoque, financeiro e PDV integrados.</p>
 
       <h3>7. Modo Offline</h3>
       <p>A internet cai. Seu PDV precisa continuar funcionando mesmo offline, sincronizando os dados automaticamente quando a conexão for restabelecida.</p>
@@ -440,7 +440,7 @@ export const articles2: BlogPost[] = [
       <h2>Passo a Passo do Fechamento de Caixa</h2>
 
       <h3>1. Encerre Todas as Vendas do Dia no PDV</h3>
-      <p>Antes de começar a contagem, certifique-se de que nenhuma venda está em aberto. Feche todas as operações pendentes no <a href="https://pdv.vendapx.ia.br">PDV</a>.</p>
+      <p>Antes de começar a contagem, certifique-se de que nenhuma venda está em aberto. Feche todas as operações pendentes no <a href="https://pdv.vendapx.com.br">PDV</a>.</p>
 
       <h3>2. Imprima o Relatório de Vendas do Dia</h3>
       <p>O relatório consolidado deve listar: total de vendas por forma de pagamento (dinheiro, PIX, cartão de crédito, cartão de débito), número de transações, descontos aplicados e devoluções realizadas.</p>
@@ -475,7 +475,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como o PDV VendaPX Automatiza o Fechamento</h2>
-      <p>Com o <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, o relatório de fechamento é gerado automaticamente ao final do dia. Todos os valores por forma de pagamento são consolidados, e os dados são enviados diretamente para o <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a>.</p>
+      <p>Com o <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, o relatório de fechamento é gerado automaticamente ao final do dia. Todos os valores por forma de pagamento são consolidados, e os dados são enviados diretamente para o <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a>.</p>
 
       <h2>Conclusão</h2>
       <p>Um fechamento de caixa bem feito é a base da confiança e da transparência nas operações comerciais. Siga o passo a passo, utilize um PDV confiável e estabeleça uma rotina consistente. Com o ecossistema <strong>VendaPX</strong>, esse processo se torna simples e confiável por apenas <strong>R$20/mês</strong>.</p>
@@ -503,7 +503,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como Aceitar Todas Essas Formas no PDV</h2>
-      <p>A chave é ter um <strong>PDV que suporte múltiplas formas de pagamento</strong> e que registre corretamente cada transação. O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> permite configurar quantas formas de pagamento desejar e registrar cada venda com a composição exata utilizada pelo cliente.</p>
+      <p>A chave é ter um <strong>PDV que suporte múltiplas formas de pagamento</strong> e que registre corretamente cada transação. O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> permite configurar quantas formas de pagamento desejar e registrar cada venda com a composição exata utilizada pelo cliente.</p>
 
       <h3>Vendas Combinadas</h3>
       <p>É comum o cliente querer pagar parte em PIX e parte no cartão, ou usar um voucher complementar com dinheiro. Um bom PDV precisa suportar <strong>vendas com múltiplas formas em uma única transação</strong>.</p>
@@ -516,7 +516,7 @@ export const articles2: BlogPost[] = [
         <li><strong>Cartão:</strong> a liquidação vem com desconto da operadora e pode levar dias.</li>
         <li><strong>Boleto:</strong> prazo de compensação de 1 a 3 dias úteis.</li>
       </ul>
-      <p>O <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> registra automaticamente cada entrada de pagamento, facilitando a conciliação diária e mensal.</p>
+      <p>O <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> registra automaticamente cada entrada de pagamento, facilitando a conciliação diária e mensal.</p>
 
       <h2>Estratégias para Maximizar as Vendas</h2>
 
@@ -572,7 +572,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como o PDV VendaPX Trabalha com Offline</h2>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> foi projetado para operar em modo offline com sincronização automática. Quando a internet cai, a equipe continua vendendo normalmente. Cada transação é salva localmente com todos os dados. Quando a conexão volta, tudo é sincronizado com o <a href="https://estoque.vendapx.ia.br">Controle de Estoque</a> e o <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a> sem intervenção manual.</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> foi projetado para operar em modo offline com sincronização automática. Quando a internet cai, a equipe continua vendendo normalmente. Cada transação é salva localmente com todos os dados. Quando a conexão volta, tudo é sincronizado com o <a href="https://estoque.vendapx.com.br">Controle de Estoque</a> e o <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a> sem intervenção manual.</p>
 
       <h2>Preparação para o Modo Offline</h2>
       <ul>
@@ -631,7 +631,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Balanças Compatíveis com o PDV VendaPX</h2>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> é compatível com as principais marcas de balanças eletrônicas do mercado brasileiro, incluindo Filizola, Toledo, Plomm e Urano. A configuração é feita uma única vez.</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> é compatível com as principais marcas de balanças eletrônicas do mercado brasileiro, incluindo Filizola, Toledo, Plomm e Urano. A configuração é feita uma única vez.</p>
 
       <h2>Configuração Básica</h2>
       <ol>
@@ -674,13 +674,13 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como Integrar Balcão e Delivery no PDV</h2>
-      <p>A solução é ter um <strong>PDV que unifique todos os canais</strong> em uma única plataforma. O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> permite registrar vendas presenciais e de delivery no mesmo sistema, com estoque compartilhado e financeiro consolidado.</p>
+      <p>A solução é ter um <strong>PDV que unifique todos os canais</strong> em uma única plataforma. O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> permite registrar vendas presenciais e de delivery no mesmo sistema, com estoque compartilhado e financeiro consolidado.</p>
 
       <h3>Integração com Marketplaces de Delivery</h3>
       <p>Plataformas como iFood, Rappi e Uber Eats geram pedidos que precisam entrar automaticamente no PDV. A integração evita a necessidade de digitar o pedido novamente, reduzindo erros e agilizando o fluxo.</p>
 
       <h3>Controle de Estoque Unificado</h3>
-      <p>O estoque deve ser <strong>único e compartilhado</strong> entre todos os canais. Quando um produto é vendido no balcão, o estoque é baixado automaticamente nos canais de delivery. O <a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a> garante essa sincronização em tempo real.</p>
+      <p>O estoque deve ser <strong>único e compartilhado</strong> entre todos os canais. Quando um produto é vendido no balcão, o estoque é baixado automaticamente nos canais de delivery. O <a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a> garante essa sincronização em tempo real.</p>
 
       <h2>Estratégias para Equilibrar os Canais</h2>
 
@@ -694,7 +694,7 @@ export const articles2: BlogPost[] = [
       <p>Alterações de preço ou indisponibilidade devem refletir em todos os canais simultaneamente.</p>
 
       <h2>Análise de Performance por Canal</h2>
-      <p>Um dos maiores benefícios de integrar canais é a capacidade de <strong>analisar a performance de cada um</strong>. Qual canal gera mais receita? Qual tem maior margem? Relatórios consolidados do <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> respondem essas perguntas com dados reais.</p>
+      <p>Um dos maiores benefícios de integrar canais é a capacidade de <strong>analisar a performance de cada um</strong>. Qual canal gera mais receita? Qual tem maior margem? Relatórios consolidados do <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> respondem essas perguntas com dados reais.</p>
 
       <h2>Custos por Canal</h2>
       <ul>
@@ -728,7 +728,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como Implementar no PDV</h2>
-      <p>A chave é que cada venda registrada no PDV esteja <strong>vinculada ao vendedor</strong>. No <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, cada operador identifica-se ao iniciar o turno, e todas as vendas são registradas com seu nome. Isso permite calcular a comissão automaticamente.</p>
+      <p>A chave é que cada venda registrada no PDV esteja <strong>vinculada ao vendedor</strong>. No <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, cada operador identifica-se ao iniciar o turno, e todas as vendas são registradas com seu nome. Isso permite calcular a comissão automaticamente.</p>
 
       <h3>Passos para Configurar</h3>
       <ol>
@@ -757,7 +757,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Integração com o Sistema Financeiro</h2>
-      <p>As comissões são uma despesa operacional que deve ser registrada no <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a>. Ao gerar relatórios de comissão diretamente do PDV e integrá-los ao financeiro, você mantém a visão completa de custos e margens.</p>
+      <p>As comissões são uma despesa operacional que deve ser registrada no <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a>. Ao gerar relatórios de comissão diretamente do PDV e integrá-los ao financeiro, você mantém a visão completa de custos e margens.</p>
 
       <h2>Conclusão</h2>
       <p>Um sistema de comissão bem implementado é uma ferramenta poderosa de gestão. Use dados reais do PDV para calcular com precisão e mantenha transparência total. O <strong>ecossistema VendaPX</strong> suporta cálculo e gestão de comissões integrados por apenas <strong>R$20/mês</strong>.</p>
@@ -796,7 +796,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h3>3. Embalagens e Kits</h3>
-      <p>Reúna produtos relacionados em kits com preço especial. O cliente percebe economia e você vende mais unidades. No <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, é possível criar kits e combos aplicados automaticamente.</p>
+      <p>Reúna produtos relacionados em kits com preço especial. O cliente percebe economia e você vende mais unidades. No <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, é possível criar kits e combos aplicados automaticamente.</p>
 
       <h3>4. Política de Frete Grátis Acima de um Valor</h3>
       <p>Se o ticket médio é R$ 50 e o frete custa R$ 15, ofereça frete grátis acima de R$ 70. Muitos clientes adicionam itens ao carrinho para atingir o valor mínimo.</p>
@@ -808,7 +808,7 @@ export const articles2: BlogPost[] = [
       <p>Clientes que acumulam pontos ou benefícios tendem a comprar mais vezes e em maiores quantidades.</p>
 
       <h2>Como o PDV Ajuda a Elevar o Ticket Médio</h2>
-      <p>Um <a href="https://pdv.vendapx.ia.br">PDV inteligente</a> pode sugerir produtos complementares automaticamente quando um item é registrado. Lembretes na tela do operador como "Sugira capa para este celular" transformam cada atendimento em oportunidade.</p>
+      <p>Um <a href="https://pdv.vendapx.com.br">PDV inteligente</a> pode sugerir produtos complementares automaticamente quando um item é registrado. Lembretes na tela do operador como "Sugira capa para este celular" transformam cada atendimento em oportunidade.</p>
 
       <h2>Erros ao Tentar Aumentar o Ticket Médio</h2>
       <ul>
@@ -818,7 +818,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Análise de Dados para Otimizar</h2>
-      <p>Use relatórios de vendas para identificar: quais produtos têm maior potencial de upsell, quais combinações de cross-sell funcionam melhor. O <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> consolida esses dados para análise.</p>
+      <p>Use relatórios de vendas para identificar: quais produtos têm maior potencial de upsell, quais combinações de cross-sell funcionam melhor. O <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> consolida esses dados para análise.</p>
 
       <h2>Conclusão</h2>
       <p>Aumentar o ticket médio é uma das alavancas mais poderosas de crescimento. Com estratégias de upsell, cross-sell e kits, cada transação gera mais receita. O <strong>ecossistema VendaPX</strong> oferece ferramentas para implementar essas estratégias por apenas <strong>R$20/mês</strong>.</p>
@@ -846,13 +846,13 @@ export const articles2: BlogPost[] = [
       <h2>Processo de Devolução no PDV</h2>
 
       <h3>1. Identifique a Transação Original</h3>
-      <p>O operador deve localizar a venda original no <a href="https://pdv.vendapx.ia.br">PDV</a>, seja pelo número do cupom, data ou dados do cliente.</p>
+      <p>O operador deve localizar a venda original no <a href="https://pdv.vendapx.com.br">PDV</a>, seja pelo número do cupom, data ou dados do cliente.</p>
 
       <h3>2. Verifique a Política de Devolução</h3>
       <p>Cada empresa deve ter uma política clara: prazo máximo, condições do produto, necessidade de nota fiscal. Essa política deve estar disponível ao cliente.</p>
 
       <h3>3. Registre a Devolução no Sistema</h3>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> permite registrar devoluções vinculadas à venda original, garantindo rastreabilidade completa. O registro inclui: motivo, produto(s), valor e forma de estorno.</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> permite registrar devoluções vinculadas à venda original, garantindo rastreabilidade completa. O registro inclui: motivo, produto(s), valor e forma de estorno.</p>
 
       <h3>4. Estorne o Pagamento</h3>
       <p>O estorno deve seguir a mesma forma de pagamento original:</p>
@@ -863,7 +863,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h3>5. Atualize o Estoque</h3>
-      <p>O item devolvido deve retornar ao estoque automaticamente. Se estiver danificado, registre como perda. O <a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a> atualiza automaticamente.</p>
+      <p>O item devolvido deve retornar ao estoque automaticamente. Se estiver danificado, registre como perda. O <a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a> atualiza automaticamente.</p>
 
       <h2>Motivos Comuns de Devolução e Como Preveni-los</h2>
       <ul>
@@ -874,7 +874,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Impacto Financeiro das Devoluções</h2>
-      <p>Devoluções reduzem a receita real. Monitorar essa taxa mensalmente é essencial. Relatórios do <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a> destacam devoluções e seu impacto na receita líquida.</p>
+      <p>Devoluções reduzem a receita real. Monitorar essa taxa mensalmente é essencial. Relatórios do <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a> destacam devoluções e seu impacto na receita líquida.</p>
 
       <h2>Boas Práticas</h2>
       <ul>
@@ -910,7 +910,7 @@ export const articles2: BlogPost[] = [
       <h2>Tipos de Promoção</h2>
 
       <h3>Desconto Percentual</h3>
-      <p>O mais comum: "20% OFF em todo o estoque". Funciona para limpar estoque antigo ou em datas comemorativas. No <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, descontos podem ser aplicados por produto, categoria ou na venda total.</p>
+      <p>O mais comum: "20% OFF em todo o estoque". Funciona para limpar estoque antigo ou em datas comemorativas. No <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, descontos podem ser aplicados por produto, categoria ou na venda total.</p>
 
       <h3>Desconto por Valor Fixo</h3>
       <p>"R$ 50 de desconto em compras acima de R$ 200". Simples e fácil de comunicar. Funciona bem para elevar o ticket médio.</p>
@@ -925,7 +925,7 @@ export const articles2: BlogPost[] = [
       <p>Devolva parte do valor em crédito para a próxima compra. Fideliza o cliente e garante uma nova transação.</p>
 
       <h2>Como Configurar no PDV</h2>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> permite configurar regras de promoção com precisão:</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> permite configurar regras de promoção com precisão:</p>
       <ul>
         <li><strong>Período de validade:</strong> a promoção começa e termina automaticamente.</li>
         <li><strong>Limite por cliente:</strong> evita abuso de uma mesma promoção.</li>
@@ -943,7 +943,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Análise Pós-Promoção</h2>
-      <p>Após cada campanha, analise no <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a>: a receita aumentou? A margem líquida foi preservada? Houve aumento no número de transações? Esses dados informam decisões futuras.</p>
+      <p>Após cada campanha, analise no <a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a>: a receita aumentou? A margem líquida foi preservada? Houve aumento no número de transações? Esses dados informam decisões futuras.</p>
 
       <h2>Conclusão</h2>
       <p>Promoções e descontos são ferramentas valiosas quando usadas com estratégia e controle. Configure regras claras, limite descontos e meça resultados. O <strong>ecossistema VendaPX</strong> permite configurar e gerenciar promoções integradas por apenas <strong>R$20/mês</strong>.</p>
@@ -979,7 +979,7 @@ export const articles2: BlogPost[] = [
       <p>Na prática, a maioria das empresas precisa de <strong>ambos integrados em um mesmo sistema</strong>.</p>
 
       <h2>Integração no Ecossistema VendaPX</h2>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> opera como um sistema unificado que atua tanto como PDV fiscal quanto comercial. Ao registrar uma venda, o sistema permite emitir NF-e ou NFC-e automaticamente quando solicitado, e registrar vendas internas para controle e relatórios.</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> opera como um sistema unificado que atua tanto como PDV fiscal quanto comercial. Ao registrar uma venda, o sistema permite emitir NF-e ou NFC-e automaticamente quando solicitado, e registrar vendas internas para controle e relatórios.</p>
 
       <h2>Diferenças na Prática</h2>
       <table>
@@ -1022,7 +1022,7 @@ export const articles2: BlogPost[] = [
       <p>O resumo do dia inclui: total de vendas, número de transações, ticket médio, vendas por forma de pagamento e vendas por vendedor.</p>
 
       <h3>Relatório de Vendas por Produto</h3>
-      <p>Mostra quais produtos mais vendem em quantidade e em faturamento. Identifica itens parados e oportunidades de destaque. No <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, esse relatório é gerado automaticamente com dados do estoque integrado.</p>
+      <p>Mostra quais produtos mais vendem em quantidade e em faturamento. Identifica itens parados e oportunidades de destaque. No <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, esse relatório é gerado automaticamente com dados do estoque integrado.</p>
 
       <h3>Relatório de Vendas por Período</h3>
       <p>Compara performance entre dias, semanas, meses ou anos. Identifica tendências sazonais e impacto de promoções.</p>
@@ -1059,7 +1059,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Como o Ecossistema VendaPX Facilita a Análise</h2>
-      <p>Com o <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> integrado ao <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a> e ao <a href="https://estoque.vendapx.ia.br">Controle de Estoque</a>, os relatórios são gerados automaticamente com dados reais e atualizados.</p>
+      <p>Com o <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> integrado ao <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a> e ao <a href="https://estoque.vendapx.com.br">Controle de Estoque</a>, os relatórios são gerados automaticamente com dados reais e atualizados.</p>
 
       <h2>Conclusão</h2>
       <p>Relatórios de vendas são a bússola do empresário. Saiba o que analisar, interprete com contexto e tome decisões baseadas em dados. O <strong>ecossistema VendaPX</strong> gera relatórios completos e integrados por apenas <strong>R$20/mês</strong>.</p>
@@ -1097,7 +1097,7 @@ export const articles2: BlogPost[] = [
       <p>Nem precisa de app formal. O WhatsApp Business é o "aplicativo" mais usado no Brasil para vendas, com catálogo de produtos e pedidos por mensagem.</p>
 
       <h2>Integração com o PDV</h2>
-      <p>O grande desafio é integrar o aplicativo ao <strong>estoque</strong> e ao <strong>sistema financeiro</strong>. Pedidos feitos no app precisam baixar o estoque automaticamente e gerar entrada financeira. O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> se integra com múltiplos canais, incluindo aplicativos de terceiros.</p>
+      <p>O grande desafio é integrar o aplicativo ao <strong>estoque</strong> e ao <strong>sistema financeiro</strong>. Pedidos feitos no app precisam baixar o estoque automaticamente e gerar entrada financeira. O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> se integra com múltiplos canais, incluindo aplicativos de terceiros.</p>
 
       <h2>Estratégias para Vendas por App</h2>
       <ul>
@@ -1110,7 +1110,7 @@ export const articles2: BlogPost[] = [
       <h2>Desafios e Como Superá-los</h2>
       <ul>
         <li><strong>Logística de entrega:</strong> se não tem equipe própria, considere parceiros logísticos.</li>
-        <li><strong>Gestão multicanal:</strong> a integração via <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> centraliza tudo.</li>
+        <li><strong>Gestão multicanal:</strong> a integração via <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> centraliza tudo.</li>
         <li><strong>Custo de desenvolvimento:</strong> comece com marketplaces e migre para app próprio.</li>
         <li><strong>Segurança de dados:</strong> invista em proteção de dados dos clientes.</li>
       </ul>
@@ -1158,7 +1158,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h3>4. Use o Modo de Treinamento do PDV</h3>
-      <p>O <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> permite simular vendas em ambiente de treinamento sem afetar dados reais.</p>
+      <p>O <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> permite simular vendas em ambiente de treinamento sem afetar dados reais.</p>
 
       <h3>5. Crie Materiais de Apoio</h3>
       <p>Folhas de referência rápida (cheat sheets) com os fluxos principais ajudam no dia a dia.</p>
@@ -1178,7 +1178,7 @@ export const articles2: BlogPost[] = [
       </ul>
 
       <h2>Avaliação Pós-Treinamento</h2>
-      <p>Após 30 dias da implantação, avalie: os funcionários estão usando o sistema corretamente? A taxa de erros diminuiu? Use os relatórios do <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> para medir esses indicadores.</p>
+      <p>Após 30 dias da implantação, avalie: os funcionários estão usando o sistema corretamente? A taxa de erros diminuiu? Use os relatórios do <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> para medir esses indicadores.</p>
 
       <h2>Conclusão</h2>
       <p>O treinamento é o diferencial entre uma implantação frustrante e uma bem-sucedida. Planeje, divida em módulos, treine na prática e ofereça suporte. O <strong>ecossistema VendaPX</strong> é intuitivo e conta com suporte dedicado por apenas <strong>R$20/mês</strong>.</p>
@@ -1210,9 +1210,9 @@ export const articles2: BlogPost[] = [
       <h2>Como Implementar com o Ecossistema VendaPX</h2>
       <p>O ecossistema <strong>VendaPX</strong> suporta operações com múltiplas unidades. Cada filial opera com seu próprio PDV, estoque e financeiro, mas tudo é conectado ao gestor central:</p>
       <ul>
-        <li><strong><a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>:</strong> cada filial com seu ponto de venda, mas com preços e regras padronizadas centralmente.</li>
-        <li><strong><a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a>:</strong> visão consolidada do inventário em todas as lojas.</li>
-        <li><strong><a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a>:</strong> fluxo de caixa unificado com análise por filial e consolidado.</li>
+        <li><strong><a href="https://pdv.vendapx.com.br">PDV VendaPX</a>:</strong> cada filial com seu ponto de venda, mas com preços e regras padronizadas centralmente.</li>
+        <li><strong><a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a>:</strong> visão consolidada do inventário em todas as lojas.</li>
+        <li><strong><a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a>:</strong> fluxo de caixa unificado com análise por filial e consolidado.</li>
       </ul>
 
       <h2>Funcionalidades Essenciais para Redes</h2>
@@ -1275,10 +1275,10 @@ export const articles2: BlogPost[] = [
       <p>Registra vendas, atende clientes e emite documentos fiscais. Sem integração, cada venda gera trabalho manual nos outros sistemas.</p>
 
       <h2>Como Funciona a Integração no Ecossistema VendaPX</h2>
-      <p>Quando uma venda é registrada no <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>, os seguintes processos acontecem automaticamente:</p>
+      <p>Quando uma venda é registrada no <a href="https://pdv.vendapx.com.br">PDV VendaPX</a>, os seguintes processos acontecem automaticamente:</p>
       <ol>
-        <li>O <a href="https://estoque.vendapx.ia.br">estoque</a> é baixado em tempo real para cada item vendido.</li>
-        <li>A receita é registrada no <a href="https://financeiro.vendapx.ia.br">sistema financeiro</a> com a forma de pagamento correta.</li>
+        <li>O <a href="https://estoque.vendapx.com.br">estoque</a> é baixado em tempo real para cada item vendido.</li>
+        <li>A receita é registrada no <a href="https://financeiro.vendapx.com.br">sistema financeiro</a> com a forma de pagamento correta.</li>
         <li>Se o estoque atingir o nível mínimo, o sistema gera alerta para reposição.</li>
         <li>Relatórios consolidados são atualizados automaticamente.</li>
       </ol>
@@ -1397,10 +1397,10 @@ export const articles2: BlogPost[] = [
       <h2>Exemplos Concretos de Retrabalho</h2>
 
       <h3>Vendas no PDV → Lançamento no Financeiro</h3>
-      <p>Sem integração, o vendedor anota as vendas do dia e alguém precisa digitar cada uma no sistema financeiro. Com integração, o <a href="https://pdv.vendapx.ia.br">PDV VendaPX</a> envia automaticamente os dados para o <a href="https://financeiro.vendapx.ia.br">Sistema Financeiro</a>.</p>
+      <p>Sem integração, o vendedor anota as vendas do dia e alguém precisa digitar cada uma no sistema financeiro. Com integração, o <a href="https://pdv.vendapx.com.br">PDV VendaPX</a> envia automaticamente os dados para o <a href="https://financeiro.vendapx.com.br">Sistema Financeiro</a>.</p>
 
       <h3>Compra de Produtos → Atualização de Estoque</h3>
-      <p>Sem integração, alguém precisa registrar cada entrada de produto no estoque. Com o <a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a> integrado, a compra já registrada no financeiro atualiza o estoque automaticamente.</p>
+      <p>Sem integração, alguém precisa registrar cada entrada de produto no estoque. Com o <a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a> integrado, a compra já registrada no financeiro atualiza o estoque automaticamente.</p>
 
       <h3>Fechamento de Caixa → Relatório Financeiro</h3>
       <p>Sem integração, os dados do fechamento são copiados manualmente para planilhas. Com integração, o relatório já está pronto no sistema financeiro.</p>
@@ -1469,9 +1469,9 @@ export const articles2: BlogPost[] = [
       <h2>Como o Ecossistema VendaPX Entrega a Visão 360°</h2>
       <p>O ecossistema <strong>VendaPX</strong> conecta automaticamente os três sistemas:</p>
       <ul>
-        <li><strong><a href="https://pdv.vendapx.ia.br">PDV VendaPX</a>:</strong> gera dados de vendas, atendimentos e vendedores.</li>
-        <li><strong><a href="https://estoque.vendapx.ia.br">Controle de Estoque VendaPX</a>:</strong> gera dados de inventário, entradas e saídas.</li>
-        <li><strong><a href="https://financeiro.vendapx.ia.br">Sistema Financeiro VendaPX</a>:</strong> consolida tudo em indicadores financeiros.</li>
+        <li><strong><a href="https://pdv.vendapx.com.br">PDV VendaPX</a>:</strong> gera dados de vendas, atendimentos e vendedores.</li>
+        <li><strong><a href="https://estoque.vendapx.com.br">Controle de Estoque VendaPX</a>:</strong> gera dados de inventário, entradas e saídas.</li>
+        <li><strong><a href="https://financeiro.vendapx.com.br">Sistema Financeiro VendaPX</a>:</strong> consolida tudo em indicadores financeiros.</li>
       </ul>
       <p>O resultado é um <strong>painel único</strong> onde o empresário vê tudo o que precisa para tomar decisões informadas.</p>
 
@@ -1547,7 +1547,7 @@ export const articles2: BlogPost[] = [
       <p>Não tente automatizar tudo de uma vez. Comece pelos processos que consomem mais tempo ou geram mais erros.</p>
 
       <h3>Passo 3: Escolha a Ferramenta Certa</h3>
-      <p>O <strong>ecossistema VendaPX</strong> automatiza os três pilares da operação: <a href="https://pdv.vendapx.ia.br">PDV</a>, <a href="https://estoque.vendapx.ia.br">estoque</a> e <a href="https://financeiro.vendapx.ia.br">finanças</a>. Com integração nativa, os processos fluem automaticamente entre os sistemas.</p>
+      <p>O <strong>ecossistema VendaPX</strong> automatiza os três pilares da operação: <a href="https://pdv.vendapx.com.br">PDV</a>, <a href="https://estoque.vendapx.com.br">estoque</a> e <a href="https://financeiro.vendapx.com.br">finanças</a>. Com integração nativa, os processos fluem automaticamente entre os sistemas.</p>
 
       <h3>Passo 4: Treine a Equipe</h3>
       <p>Automação não elimina pessoas — as liberta para tarefas de maior valor. Treine a equipe para usar as ferramentas e focar em atendimento, estratégia e crescimento.</p>

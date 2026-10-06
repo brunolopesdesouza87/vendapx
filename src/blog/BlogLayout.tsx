@@ -11,7 +11,7 @@ export default function BlogLayout() {
       <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-slate-100">
         <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">R</div>
+            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">V</div>
             <span className="text-xl font-bold tracking-tight text-slate-900">VendaPX</span>
             <span className="text-xs font-bold text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded-full ml-1">Blog</span>
           </Link>
@@ -29,7 +29,7 @@ export default function BlogLayout() {
       <footer className="bg-slate-900 text-white py-12 mt-16">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
-            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">R</div>
+            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">V</div>
             <span className="text-xl font-bold">VendaPX</span>
           </div>
           <p className="text-slate-400 text-sm mb-6">

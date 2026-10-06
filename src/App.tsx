@@ -25,9 +25,9 @@ const WhatsAppIcon = () => (
 );
 
 const SISTEMAS = {
-  estoque:    { label: 'Estoque',    url: 'https://estoque.vendapx.ia.br/',    color: 'text-emerald-600' },
-  financeiro: { label: 'Financeiro', url: 'https://financeiro.vendapx.ia.br/', color: 'text-indigo-600'  },
-  pdv:        { label: 'PDV',        url: 'https://pdv.vendapx.ia.br/',        color: 'text-amber-600'   },
+  estoque:    { label: 'Estoque',    url: 'https://estoque.vendapx.com.br/',    color: 'text-emerald-600' },
+  financeiro: { label: 'Financeiro', url: 'https://financeiro.vendapx.com.br/', color: 'text-indigo-600'  },
+  pdv:        { label: 'PDV',        url: 'https://pdv.vendapx.com.br/',        color: 'text-amber-600'   },
 };
 
 const FeatureCard = ({ icon: Icon, title, description, items, link, accentColor = 'bg-indigo-50 text-indigo-600', btnColor = 'bg-indigo-600 hover:bg-indigo-700', cardBg = 'bg-white', cardBorder = 'border-slate-100' }: { icon: any, title: string, description: string, items: string[], link?: string, accentColor?: string, btnColor?: string, cardBg?: string, cardBorder?: string }) => (
@@ -70,7 +70,7 @@ function LandingPage() {
       <header className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md z-50 border-bottom border-slate-100">
         <div className="max-w-7xl mx-auto px-4 h-20 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">R</div>
+            <div className="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">V</div>
             <span className="text-2xl font-bold tracking-tight">VendaPX</span>
           </div>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
@@ -405,7 +405,7 @@ function LandingPage() {
       <footer className="py-12 bg-white border-t border-slate-100">
         <div className="max-w-7xl mx-auto px-4 flex flex-col md:row items-center justify-between gap-8">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">R</div>
+            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">V</div>
             <span className="text-xl font-bold tracking-tight">VendaPX</span>
           </div>
           <p className="text-slate-500 text-sm">
@@ -414,7 +414,7 @@ function LandingPage() {
           <div className="flex items-center gap-6 text-sm font-medium text-slate-500">
             <a href="#" className="hover:text-indigo-600">Termos</a>
             <a href="#" className="hover:text-indigo-600">Privacidade</a>
-            <a href="https://vendapx.ia.br" className="hover:text-indigo-600">vendapx.ia.br</a>
+            <a href="https://vendapx.com.br" className="hover:text-indigo-600">vendapx.com.br</a>
           </div>
         </div>
       </footer>

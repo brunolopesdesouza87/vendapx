@@ -24,14 +24,14 @@ export const articles3: BlogPost[] = [
 </ul>
 
 <h2>Como Funciona a Integração Com o VendaPX</h2>
-<p>O <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.ia.br) funciona como o centro de todas as suas operações. Quando um produto é vendido no e-commerce, o estoque é atualizado automaticamente em todos os canais. Isso significa que se você tem 10 unidades de um produto e vende 3 pela loja virtual, automaticamente restam 7 disponíveis tanto na loja física quanto em qualquer outro canal conectado.</p>
+<p>O <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.com.br) funciona como o centro de todas as suas operações. Quando um produto é vendido no e-commerce, o estoque é atualizado automaticamente em todos os canais. Isso significa que se você tem 10 unidades de um produto e vende 3 pela loja virtual, automaticamente restam 7 disponíveis tanto na loja física quanto em qualquer outro canal conectado.</p>
 
 <h3>Fluxo da Integração</h3>
 <ol>
 <li><strong>Cadastro centralizado:</strong> todos os produtos são cadastrados uma única vez no VendaPX</li>
 <li><strong>Sincronização automática:</strong> preços, descrições e imagens são enviados ao e-commerce</li>
 <li><strong>Atualização em tempo real:</strong> cada venda, entrada ou devolução atualiza o estoque automaticamente</li>
-<li><strong>Conciliação financeira:</strong> as receitas do e-commerce são registradas no <strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br) com a categoria correta</li>
+<li><strong>Conciliação financeira:</strong> as receitas do e-commerce são registradas no <strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br) com a categoria correta</li>
 </ol>
 
 <h2>Benefícios Concretos Para o Seu Negócio</h2>
@@ -83,7 +83,7 @@ export const articles3: BlogPost[] = [
 <p><strong>API</strong> significa <em>Application Programming Interface</em>, ou Interface de Programação de Aplicações. Em termos simples, é uma ponte que permite que dois softwares se comuniquem entre si. Pense nela como um garçom em um restaurante: você faz um pedido, e o garçom leva esse pedido até a cozinha e traz o resultado de volta.</p>
 
 <h2>Como Funcionam na Prática</h2>
-<p>No contexto do VendaPX, as APIs são responsáveis por permitir que o <strong>Controle de Estoque</strong>, o <strong>Sistema Financeiro</strong> e o <strong>PDV</strong> trabalhem juntos de forma integrada. Quando você registra uma venda no PDV (pdv.vendapx.ia.br), uma API envia automaticamente essa informação para o estoque e para o financeiro. Tudo acontece em milissegundos, sem que você precise fazer nada manualmente.</p>
+<p>No contexto do VendaPX, as APIs são responsáveis por permitir que o <strong>Controle de Estoque</strong>, o <strong>Sistema Financeiro</strong> e o <strong>PDV</strong> trabalhem juntos de forma integrada. Quando você registra uma venda no PDV (pdv.vendapx.com.br), uma API envia automaticamente essa informação para o estoque e para o financeiro. Tudo acontece em milissegundos, sem que você precise fazer nada manualmente.</p>
 
 <h3>Exemplos Reais de Uso de APIs</h3>
 <ul>
@@ -115,7 +115,7 @@ export const articles3: BlogPost[] = [
 </ul>
 
 <h2>O VendaPX Já Cuida Disso Para Você</h2>
-<p>Uma das grandes vantagens do ecossistema VendaPX é que toda a complexidade técnica de APIs e webhooks já foi resolvida por trás dos panos. Quando você usa o <strong>Controle de Estoque</strong> (estoque.vendapx.ia.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br) e o <strong>PDV</strong> (pdv.vendapx.ia.br), esses sistemas se comunicam automaticamente, sem que você precise se preocupar com a tecnologia.</p>
+<p>Uma das grandes vantagens do ecossistema VendaPX é que toda a complexidade técnica de APIs e webhooks já foi resolvida por trás dos panos. Quando você usa o <strong>Controle de Estoque</strong> (estoque.vendapx.com.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br) e o <strong>PDV</strong> (pdv.vendapx.com.br), esses sistemas se comunicam automaticamente, sem que você precise se preocupar com a tecnologia.</p>
 
 <blockquote>A tecnologia mais poderosa é aquela que você nem percebe que está usando. Com o VendaPX, as integrações acontecem nos bastidores, e você foca no que realmente importa: seu negócio.</blockquote>
 
@@ -141,7 +141,7 @@ export const articles3: BlogPost[] = [
     keywords: ['migração de dados', 'troca de sistema', 'gestão de dados', 'VendaPX', 'planejamento', 'segurança'],
     content: `<h2>Quando É Hora de Trocar de Sistema?</h2>
 <p>Toda empresa, em algum momento, enfrenta a necessidade de trocar seu sistema de gestão. Seja porque o sistema atual não atende mais às necessidades, porque os custos são altos demais, ou porque a empresa cresceu e precisa de algo mais robusto. O desafio, nesses momentos, é a <strong>migração de dados</strong> — transferir todas as informações do sistema antigo para o novo sem perdas.</p>
-<p>Se você está pensando em migrar para o <strong>VendaPX</strong>, saiba que o processo pode ser tranquilo com o planejamento correto. O ecossistema VendaPX, com o <strong>Controle de Estoque</strong> (estoque.vendapx.ia.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br) e o <strong>PDV</strong> (pdv.vendapx.ia.br), foi projetado para facilitar essa transição.</p>
+<p>Se você está pensando em migrar para o <strong>VendaPX</strong>, saiba que o processo pode ser tranquilo com o planejamento correto. O ecossistema VendaPX, com o <strong>Controle de Estoque</strong> (estoque.vendapx.com.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br) e o <strong>PDV</strong> (pdv.vendapx.com.br), foi projetado para facilitar essa transição.</p>
 
 <h2>Planejamento: A Chave Para o Sucesso</h2>
 <p>Antes de qualquer ação, é essencial planejar a migração. Um plano bem estruturado evita surpresas e garante que nenhum dado importante fique para trás.</p>
@@ -240,7 +240,7 @@ export const articles3: BlogPost[] = [
 <p>Um backup que nunca foi testado é um backup que pode não funcionar quando você mais precisar. Realize testes de recuperação periodicamente.</p>
 
 <h2>Backup no Contexto do VendaPX</h2>
-<p>O ecossistema VendaPX, com o <strong>Controle de Estoque</strong> (estoque.vendapx.ia.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br) e o <strong>PDV</strong> (pdv.vendapx.ia.br), trabalha com dados armazenados em ambiente cloud, o que já oferece uma camada significativa de proteção.</p>
+<p>O ecossistema VendaPX, com o <strong>Controle de Estoque</strong> (estoque.vendapx.com.br), o <strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br) e o <strong>PDV</strong> (pdv.vendapx.com.br), trabalha com dados armazenados em ambiente cloud, o que já oferece uma camada significativa de proteção.</p>
 
 <h3>Vantagens do Armazenamento em Nuvem</h3>
 <ul>
@@ -309,21 +309,21 @@ export const articles3: BlogPost[] = [
 <h2>Como o VendaPX Resolve Isso</h2>
 <p>O ecossistema VendaPX foi projetado com escalabilidade em mente. Isso significa que ele acompanha o crescimento do seu negócio de forma natural:</p>
 
-<h3>Controle de Estoque (estoque.vendapx.ia.br)</h3>
+<h3>Controle de Estoque (estoque.vendapx.com.br)</h3>
 <ul>
 <li>Suporta desde 100 até milhares de produtos</li>
 <li>Adiciona novas filiais sem perda de desempenho</li>
 <li>Integra com novos canais de venda conforme necessário</li>
 </ul>
 
-<h3>Sistema Financeiro (financeiro.vendapx.ia.br)</h3>
+<h3>Sistema Financeiro (financeiro.vendapx.com.br)</h3>
 <ul>
 <li>Gerencia desde fluxos simples até operações complexas</li>
 <li>Suporta múltiplas formas de pagamento e moedas</li>
 <li>Integra com bancos e sistemas de pagamento</li>
 </ul>
 
-<h3>PDV (pdv.vendapx.ia.br)</h3>
+<h3>PDV (pdv.vendapx.com.br)</h3>
 <ul>
 <li>Funciona em uma ou múltiplas lojas</li>
 <li>Adiciona novos terminais conforme a necessidade</li>
@@ -381,7 +381,7 @@ export const articles3: BlogPost[] = [
 <li>Não registrar todas as entradas e saídas</li>
 <li>Ignorar relatórios financeiros mensais</li>
 </ul>
-<p><strong>Solução:</strong> use o <strong>Sistema Financeiro do VendaPX</strong> (financeiro.vendapx.ia.br) para ter visibilidade total sobre suas finanças.</p>
+<p><strong>Solução:</strong> use o <strong>Sistema Financeiro do VendaPX</strong> (financeiro.vendapx.com.br) para ter visibilidade total sobre suas finanças.</p>
 
 <h2>2. Não Controlar o Estoque</h2>
 <p>Produtos sem estoque significam vendas perdidas. Excesso de estoque significa dinheiro parado. O <strong>controle de estoque</strong> é essencial para manter o equilíbrio.</p>
@@ -474,9 +474,9 @@ export const articles3: BlogPost[] = [
 <h2>Passo 4: Escolha Suas Ferramentas</h2>
 <p>Todo negócio precisa de ferramentas básicas para funcionar. Com o <strong>VendaPX</strong>, você tem três sistemas essenciais integrados por apenas <strong>R$20 por mês</strong>:</p>
 <ul>
-<li><strong>Controle de Estoque</strong> (estoque.vendapx.ia.br): para gerenciar seus produtos</li>
-<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br): para controlar receitas e despesas</li>
-<li><strong>PDV</strong> (pdv.vendapx.ia.br): para registrar suas vendas</li>
+<li><strong>Controle de Estoque</strong> (estoque.vendapx.com.br): para gerenciar seus produtos</li>
+<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br): para controlar receitas e despesas</li>
+<li><strong>PDV</strong> (pdv.vendapx.com.br): para registrar suas vendas</li>
 </ul>
 
 <h2>Passo 5: Organize Seu Estoque</h2>
@@ -543,14 +543,14 @@ export const articles3: BlogPost[] = [
 </ul>
 
 <h2>Como o VendaPX Facilita a Gestão de Fornecedores</h2>
-<p>O <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.ia.br) permite cadastrar seus fornecedores com todos os dados importantes:</p>
+<p>O <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.com.br) permite cadastrar seus fornecedores com todos os dados importantes:</p>
 <ul>
 <li>Dados cadastrais completos</li>
 <li>Condições de pagamento</li>
 <li>Prazos de entrega</li>
 <li>Histórico de compras</li>
 </ul>
-<p>Além disso, o <strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br) permite controlar as contas a pagar com fornecedores, programando pagamentos e evitando atrasos.</p>
+<p>Além disso, o <strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br) permite controlar as contas a pagar com fornecedores, programando pagamentos e evitando atrasos.</p>
 
 <h2>Estratégias Para Melhorar o Relacionamento</h2>
 <ul>
@@ -598,9 +598,9 @@ export const articles3: BlogPost[] = [
 <h2>Ferramentas Que Aumentam a Produtividade</h2>
 <p>A tecnologia é a maior aliada da produtividade. Com o <strong>VendaPX</strong>, por exemplo, várias tarefas manuais são automatizadas:</p>
 <ul>
-<li><strong>Controle de Estoque</strong> (estoque.vendapx.ia.br): atualização automática de estoques a cada venda</li>
-<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br): categorização automática de transações</li>
-<li><strong>PDV</strong> (pdv.vendapx.ia.br): registro automático de vendas e emissão de notas</li>
+<li><strong>Controle de Estoque</strong> (estoque.vendapx.com.br): atualização automática de estoques a cada venda</li>
+<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br): categorização automática de transações</li>
+<li><strong>PDV</strong> (pdv.vendapx.com.br): registro automático de vendas e emissão de notas</li>
 </ul>
 
 <h3>Quanto Tempo Essas Ferramentas Economizam?</h3>
@@ -827,7 +827,7 @@ export const articles3: BlogPost[] = [
 <h2>Estratégias Para Mitigar Sazonalidade</h2>
 
 <h3>1. Planeje Financeiramente</h3>
-<p>Use o <strong>Sistema Financeiro do VendaPX</strong> (financeiro.vendapx.ia.br) para:</p>
+<p>Use o <strong>Sistema Financeiro do VendaPX</strong> (financeiro.vendapx.com.br) para:</p>
 <ul>
 <li>Identificar padrões de vendas mensais</li>
 <li>Criar reserva para meses mais fracos</li>
@@ -1065,7 +1065,7 @@ export const articles3: BlogPost[] = [
 <h2>Áreas Onde É Possível Economizar</h2>
 
 <h3>1. Estoque</h3>
-<p>Estoque é dinheiro parado. Com o <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.ia.br), você pode:</p>
+<p>Estoque é dinheiro parado. Com o <strong>Controle de Estoque do VendaPX</strong> (estoque.vendapx.com.br), você pode:</p>
 <ul>
 <li><strong>Eliminar itens parados:</strong> identifique produtos que não giram e promova saída</li>
 <li><strong>Comprar apenas o necessário:</strong> evite compras por impulsão</li>
@@ -1569,7 +1569,7 @@ export const articles3: BlogPost[] = [
 <h3>3. Escolha das Ferramentas</h3>
 <p>Escolha soluções adequadas ao tamanho do negócio:</p>
 <ul>
-<li><strong>Gestão:</strong> VendaPX (estoque.vendapx.ia.br, financeiro.vendapx.ia.br, pdv.vendapx.ia.br)</li>
+<li><strong>Gestão:</strong> VendaPX (estoque.vendapx.com.br, financeiro.vendapx.com.br, pdv.vendapx.com.br)</li>
 <li><strong>Comunicação:</strong> WhatsApp Business, e-mail profissional</li>
 <li><strong>Marketing:</strong> redes sociais, Google Meu Negócio</li>
 <li><strong>Financeiro:</strong> sistemas de pagamento digital</li>
@@ -1670,9 +1670,9 @@ export const articles3: BlogPost[] = [
 <h2>Como o VendaPX Usa a Nuvem</h2>
 <p>O ecossistema VendaPX é 100% baseado em nuvem:</p>
 <ul>
-<li><strong>Controle de Estoque</strong> (estoque.vendapx.ia.br): dados sempre atualizados e acessíveis</li>
-<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.ia.br): informações financeiras seguras</li>
-<li><strong>PDV</strong> (pdv.vendapx.ia.br): vendas registradas em tempo real</li>
+<li><strong>Controle de Estoque</strong> (estoque.vendapx.com.br): dados sempre atualizados e acessíveis</li>
+<li><strong>Sistema Financeiro</strong> (financeiro.vendapx.com.br): informações financeiras seguras</li>
+<li><strong>PDV</strong> (pdv.vendapx.com.br): vendas registradas em tempo real</li>
 </ul>
 <p>Tudo por apenas <strong>R$20 por mês</strong>, sem necessidade de infraestrutura complexa.</p>
 
@@ -1894,21 +1894,21 @@ export const articles3: BlogPost[] = [
 <h2>Como o VendaPX Automatiza Seu Negócio</h2>
 <p>O ecossistema VendaPX foi projetado para automatizar as tarefas mais trabalhosas da gestão:</p>
 
-<h3>Controle de Estoque (estoque.vendapx.ia.br)</h3>
+<h3>Controle de Estoque (estoque.vendapx.com.br)</h3>
 <ul>
 <li>Atualização automática a cada venda, devolução ou entrada</li>
 <li>Alertas automáticos quando estoque atinge o mínimo</li>
 <li>Relatórios de giro de estoque gerados automaticamente</li>
 </ul>
 
-<h3>Sistema Financeiro (financeiro.vendapx.ia.br)</h3>
+<h3>Sistema Financeiro (financeiro.vendapx.com.br)</h3>
 <ul>
 <li>Categorização automática de transações</li>
 <li>Lembrete de vencimento de contas a pagar e receber</li>
 <li>Geração automática de fluxo de caixa</li>
 </ul>
 
-<h3>PDV (pdv.vendapx.ia.br)</h3>
+<h3>PDV (pdv.vendapx.com.br)</h3>
 <ul>
 <li>Registro instantâneo de vendas</li>
 <li>Emissão automática de comprovantes</li>
