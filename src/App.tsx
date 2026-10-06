@@ -9,7 +9,8 @@ import {
   Zap, 
   ShieldCheck, 
   BarChart3,
-  Layers
+  Layers,
+  Bike
 } from 'lucide-react';
 import { motion } from 'motion/react';
 import { BlogLayout, BlogList, BlogPostPage } from './blog';
@@ -28,6 +29,7 @@ const SISTEMAS = {
   estoque:    { label: 'Estoque',    url: 'https://estoque.vendapx.com.br/',    color: 'text-emerald-600' },
   financeiro: { label: 'Financeiro', url: 'https://financeiro.vendapx.com.br/', color: 'text-indigo-600'  },
   pdv:        { label: 'PDV',        url: 'https://pdv.vendapx.com.br/',        color: 'text-amber-600'   },
+  delivery:   { label: 'Delivery',   url: 'https://delivery.vendapx.com.br/',   color: 'text-rose-600'    },
 };
 
 const FeatureCard = ({ icon: Icon, title, description, items, link, accentColor = 'bg-indigo-50 text-indigo-600', btnColor = 'bg-indigo-600 hover:bg-indigo-700', cardBg = 'bg-white', cardBorder = 'border-slate-100' }: { icon: any, title: string, description: string, items: string[], link?: string, accentColor?: string, btnColor?: string, cardBg?: string, cardBorder?: string }) => (
@@ -82,6 +84,7 @@ function LandingPage() {
             <a href={SISTEMAS.estoque.url} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-600 transition-colors">Estoque</a>
             <a href={SISTEMAS.financeiro.url} target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 transition-colors">Financeiro</a>
             <a href={SISTEMAS.pdv.url} target="_blank" rel="noopener noreferrer" className="hover:text-amber-600 transition-colors">PDV</a>
+            <a href={SISTEMAS.delivery.url} target="_blank" rel="noopener noreferrer" className="hover:text-rose-600 transition-colors">Delivery</a>
           </nav>
           <a 
             href={CHECKOUT_URL}
@@ -108,7 +111,7 @@ function LandingPage() {
               <span className="text-indigo-600">em um só lugar.</span>
             </h1>
             <p className="text-xl text-slate-600 max-w-2xl mx-auto mb-12 leading-relaxed">
-              Controle de estoque, financeiro e PDV integrados nativamente. 
+              Controle de estoque, financeiro, PDV e delivery integrados nativamente. 
               Aumente sua produtividade e tenha visão total da sua empresa com a VendaPX.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -185,13 +188,13 @@ function LandingPage() {
       <section id="sistemas" className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Três Sistemas, Uma Só Solução</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-6">Quatro Sistemas, Uma Só Solução</h2>
             <p className="text-slate-600 max-w-2xl mx-auto text-lg">
               Desenvolvemos ferramentas poderosas que funcionam de forma independente, mas brilham quando usadas em conjunto.
             </p>
           </div>
           
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid sm:grid-cols-2 xl:grid-cols-4 gap-8">
             <FeatureCard 
               icon={Package}
               title="Controle de Estoque"
@@ -243,6 +246,97 @@ function LandingPage() {
               cardBg="bg-orange-50"
               cardBorder="border-orange-100"
             />
+            <FeatureCard 
+              icon={Bike}
+              title="SmartDelivery"
+              description="Sua loja online no WhatsApp: cardápio, pedidos em tempo real e link próprio da sua marca."
+              items={[
+                "Loja pública com link próprio",
+                "Cardápio montado a partir do estoque",
+                "Pedidos no painel e no WhatsApp",
+                "Status de novo até entregue",
+                "Equipe com acesso por perfil"
+              ]}
+              link={SISTEMAS.delivery.url}
+              accentColor="bg-rose-100 text-rose-600"
+              btnColor="bg-rose-600 hover:bg-rose-700"
+              cardBg="bg-rose-50"
+              cardBorder="border-rose-100"
+            />
+          </div>
+        </div>
+      </section>
+
+      {/* Delivery Section */}
+      <section id="delivery" className="py-24 bg-slate-900 text-white overflow-hidden">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="flex flex-col lg:flex-row items-center gap-16">
+            <div className="lg:w-1/2">
+              <span className="inline-block px-4 py-1.5 bg-rose-500/15 text-rose-400 rounded-full text-xs font-bold uppercase tracking-wider mb-6">
+                SmartDelivery
+              </span>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
+                A loja da sua empresa <br />
+                <span className="text-rose-400">no WhatsApp.</span>
+              </h2>
+              <p className="text-slate-300 text-lg mb-8 leading-relaxed">
+                Monte o cardápio a partir do seu estoque, compartilhe o link da loja e receba os pedidos
+                no painel e no WhatsApp do estabelecimento. Acompanhe cada pedido do <b className="text-white">novo</b> até o <b className="text-white">entregue</b>.
+              </p>
+              <ul className="space-y-4 mb-10">
+                {[
+                  'Loja pública com link próprio da sua marca',
+                  'Cardápio montado a partir do estoque VendaPX',
+                  'Pedidos recebidos no painel e disparados no WhatsApp',
+                  'Status em tempo real: novo, confirmado, preparando, a caminho, entregue',
+                  'Equipe com acesso por perfil (leitura ou gestão)'
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3 text-slate-300">
+                    <CheckCircle2 size={20} className="text-rose-400 shrink-0 mt-0.5" />
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <a
+                href={SISTEMAS.delivery.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 bg-rose-500 text-white px-8 py-4 rounded-full text-lg font-bold hover:bg-rose-600 transition-all shadow-xl shadow-rose-500/20"
+              >
+                Acessar o Delivery <ArrowRight size={18} />
+              </a>
+            </div>
+
+            <div className="lg:w-1/2">
+              <div className="bg-white text-slate-900 p-8 md:p-10 rounded-3xl shadow-2xl">
+                <h3 className="text-2xl font-bold mb-2">Como acessar</h3>
+                <p className="text-slate-500 text-sm mb-8">
+                  O Delivery é um sistema separado, com endereço e login próprios.
+                </p>
+                <ol className="space-y-6">
+                  {[
+                    { t: 'Abra o endereço do sistema', d: 'delivery.vendapx.com.br' },
+                    { t: 'Clique em “Acessar painel”', d: 'A tela inicial mostra a apresentação da loja online.' },
+                    { t: 'Entre com e-mail e senha', d: 'Use a conta da sua empresa. Esqueceu a senha? Em “Esqueceu sua senha?” enviamos um link por e-mail.' },
+                    { t: 'Configure sua loja', d: 'Na aba “Minha loja” monte o cardápio e copie o link da sua vitrine.' },
+                    { t: 'Divulgue a vitrine', d: 'O cliente pede sem login em delivery.vendapx.com.br/s/sua-loja e o pedido chega no painel e no WhatsApp.' }
+                  ].map((step, i) => (
+                    <li key={step.t} className="flex gap-4">
+                      <span className="shrink-0 w-8 h-8 rounded-full bg-rose-500 text-white text-sm font-bold flex items-center justify-center">
+                        {i + 1}
+                      </span>
+                      <span>
+                        <b className="block mb-0.5">{step.t}</b>
+                        <span className="text-slate-500 text-sm">{step.d}</span>
+                      </span>
+                    </li>
+                  ))}
+                </ol>
+                <div className="mt-8 pt-6 border-t border-slate-100 text-sm text-slate-500">
+                  Dúvidas para liberar um acesso da equipe? Fale com o suporte pelo WhatsApp.
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -341,6 +435,10 @@ function LandingPage() {
               <li className="flex items-center gap-3 font-medium">
                 <CheckCircle2 size={20} className="text-emerald-500" />
                 Sistema PDV Completo
+              </li>
+              <li className="flex items-center gap-3 font-medium">
+                <CheckCircle2 size={20} className="text-emerald-500" />
+                Delivery e loja online no WhatsApp
               </li>
               <li className="flex items-center gap-3 font-medium">
                 <CheckCircle2 size={20} className="text-emerald-500" />
