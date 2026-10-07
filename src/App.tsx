@@ -12,7 +12,8 @@ import {
   Layers,
   Bike,
   ContactRound,
-  Link2
+  Link2,
+  Smartphone
 } from 'lucide-react';
 import { motion } from 'motion/react';
 import { BlogLayout, BlogList, BlogPostPage } from './blog';
@@ -34,6 +35,7 @@ const SISTEMAS = {
   delivery:   { label: 'Delivery',   url: 'https://delivery.vendapx.com.br/',   color: 'text-rose-600'    },
   crm:        { label: 'CRM',        url: 'https://crm.vendapx.com.br/',        color: 'text-sky-600'     },
   cliques:    { label: 'Cliques',    url: 'https://cliques.vendapx.com.br/',    color: 'text-violet-600'  },
+  bio:        { label: 'Bio',        url: 'https://bio.vendapx.com.br/',        color: 'text-fuchsia-600' },
 };
 
 const FeatureCard = ({ icon: Icon, title, description, items, link, accentColor = 'bg-indigo-50 text-indigo-600', btnColor = 'bg-indigo-600 hover:bg-indigo-700', cardBg = 'bg-white', cardBorder = 'border-slate-100' }: { icon: any, title: string, description: string, items: string[], link?: string, accentColor?: string, btnColor?: string, cardBg?: string, cardBorder?: string }) => (
@@ -92,6 +94,7 @@ function LandingPage() {
               <a href={SISTEMAS.delivery.url} target="_blank" rel="noopener noreferrer" className="hover:text-rose-600 transition-colors">Delivery</a>
               <a href={SISTEMAS.crm.url} target="_blank" rel="noopener noreferrer" className="hover:text-sky-600 transition-colors">CRM</a>
               <a href={SISTEMAS.cliques.url} target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 transition-colors">Cliques</a>
+              <a href={SISTEMAS.bio.url} target="_blank" rel="noopener noreferrer" className="hover:text-fuchsia-600 transition-colors">Bio</a>
             </span>
           </nav>
           <a 
@@ -119,7 +122,7 @@ function LandingPage() {
               <span className="text-indigo-600">em um só lugar.</span>
             </h1>
             <p className="text-xl text-slate-600 max-w-2xl mx-auto mb-12 leading-relaxed">
-              Estoque, financeiro, PDV, delivery, CRM e encurtador de links integrados nativamente. 
+              Estoque, financeiro, PDV, delivery, CRM, encurtador de links e bio link integrados nativamente. 
               Aumente sua produtividade e tenha visão total da sua empresa com a VendaPX.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -196,13 +199,13 @@ function LandingPage() {
       <section id="sistemas" className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Seis Sistemas, Uma Só Solução</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-6">Sete Sistemas, Uma Só Solução</h2>
             <p className="text-slate-600 max-w-2xl mx-auto text-lg">
               Desenvolvemos ferramentas poderosas que funcionam de forma independente, mas brilham quando usadas em conjunto.
             </p>
           </div>
           
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
             <FeatureCard 
               icon={Package}
               title="Controle de Estoque"
@@ -304,6 +307,23 @@ function LandingPage() {
               btnColor="bg-violet-600 hover:bg-violet-700"
               cardBg="bg-violet-50"
               cardBorder="border-violet-100"
+            />
+            <FeatureCard 
+              icon={Smartphone}
+              title="SmartBio"
+              description="Uma página bonita com todos os links da sua empresa, pública e fácil de compartilhar."
+              items={[
+                "Uma página com todos os seus links",
+                "Endereço no formato /b/sua-marca",
+                "Avatar, cores e descrição da marca",
+                "Acesso público, sem cadastro",
+                "Equipe com acesso por perfil"
+              ]}
+              link={SISTEMAS.bio.url}
+              accentColor="bg-fuchsia-100 text-fuchsia-600"
+              btnColor="bg-fuchsia-600 hover:bg-fuchsia-700"
+              cardBg="bg-fuchsia-50"
+              cardBorder="border-fuchsia-100"
             />
           </div>
         </div>
@@ -531,6 +551,80 @@ function LandingPage() {
         </div>
       </section>
 
+      {/* Bio Section */}
+      <section id="bio" className="py-24 bg-white">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="flex flex-col lg:flex-row-reverse items-center gap-16">
+            <div className="lg:w-1/2">
+              <span className="inline-block px-4 py-1.5 bg-fuchsia-50 text-fuchsia-600 rounded-full text-xs font-bold uppercase tracking-wider mb-6">
+                SmartBio
+              </span>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-slate-900">
+                Sua bio na <br />
+                <span className="text-fuchsia-600">medida certa.</span>
+              </h2>
+              <p className="text-slate-600 text-lg mb-8 leading-relaxed">
+                Reúna todos os links da sua empresa em uma página bonita, pública e fácil de compartilhar —
+                WhatsApp, Instagram, site, mapa e catálogo, tudo em um só lugar.
+              </p>
+              <ul className="space-y-4 mb-10">
+                {[
+                  'Todos os links reunidos em um só endereço',
+                  'Avatar, título, descrição e cores com a sua marca',
+                  'Página pública, acessada sem cadastro',
+                  'Endereço no formato bio.vendapx.com.br/b/sua-marca',
+                  'Equipe com acesso por perfil (leitura ou gestão)'
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3 text-slate-600">
+                    <CheckCircle2 size={20} className="text-fuchsia-500 shrink-0 mt-0.5" />
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <a
+                href={SISTEMAS.bio.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 bg-fuchsia-600 text-white px-8 py-4 rounded-full text-lg font-bold hover:bg-fuchsia-700 transition-all shadow-xl shadow-fuchsia-200"
+              >
+                Acessar o SmartBio <ArrowRight size={18} />
+              </a>
+            </div>
+
+            <div className="lg:w-1/2">
+              <div className="bg-slate-50 ring-1 ring-slate-200 p-8 md:p-10 rounded-3xl">
+                <h3 className="text-2xl font-bold mb-2 text-slate-900">Como acessar</h3>
+                <p className="text-slate-500 text-sm mb-8">
+                  O SmartBio é um sistema separado, com endereço e login próprios.
+                </p>
+                <ol className="space-y-6">
+                  {[
+                    { t: 'Abra o endereço do sistema', d: 'bio.vendapx.com.br' },
+                    { t: 'Clique em “Entrar”', d: 'No topo, ao lado do nome SmartBio.' },
+                    { t: 'Entre com e-mail e senha', d: 'Use a conta da sua empresa e clique em “Acessar painel”. Esqueceu a senha? Em “Esqueceu sua senha?” enviamos um link por e-mail.' },
+                    { t: 'Personalize a sua bio', d: 'Na aba “Personalizar” defina avatar, título, descrição e as cores da sua marca.' },
+                    { t: 'Adicione os links e publique', d: 'Na aba “Meus links” cadastre WhatsApp, Instagram, site e mapa — o endereço fica bio.vendapx.com.br/b/sua-marca.' }
+                  ].map((step, i) => (
+                    <li key={step.t} className="flex gap-4">
+                      <span className="shrink-0 w-8 h-8 rounded-full bg-fuchsia-600 text-white text-sm font-bold flex items-center justify-center">
+                        {i + 1}
+                      </span>
+                      <span>
+                        <b className="block mb-0.5 text-slate-900">{step.t}</b>
+                        <span className="text-slate-500 text-sm">{step.d}</span>
+                      </span>
+                    </li>
+                  ))}
+                </ol>
+                <div className="mt-8 pt-6 border-t border-slate-200 text-sm text-slate-500">
+                  Dúvidas para liberar um acesso da equipe? Fale com o suporte pelo WhatsApp.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Integration Section */}
       <section id="integracao" className="py-24 bg-slate-50 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4">
@@ -637,6 +731,10 @@ function LandingPage() {
               <li className="flex items-center gap-3 font-medium">
                 <CheckCircle2 size={20} className="text-emerald-500" />
                 Encurtador de links com QR Code
+              </li>
+              <li className="flex items-center gap-3 font-medium">
+                <CheckCircle2 size={20} className="text-emerald-500" />
+                Bio link personalizável
               </li>
               <li className="flex items-center gap-3 font-medium">
                 <CheckCircle2 size={20} className="text-emerald-500" />
